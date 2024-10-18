@@ -1,5 +1,5 @@
 # Mémoire : L'effet de la pratique d'activité physique sur l'état de santé
 
-Mémoire de Master ayant pour objectif de modéliser et de quantifier l'impact de la pratique d'une activité sportive sur la santé d'un individu.
+La pandémie de COVID-19 et le confinement en France ont considérablement dégradé la santé physique et mentale de la population. Près de la moitié des Français ont souffert de troubles du sommeil et de tristesse accrue, tandis que l'obésité, en hausse (17% en 2022), a été un facteur de risque majeur face aux formes sévères du virus. La sédentarité, exacerbée par le confinement, pose un problème de santé publique et économique, coûtant environ 500 millions d'euros par an. L'activité physique, pourtant essentielle pour contrer ces effets, reste insuffisante : seulement 42,5% des Français et 60% des étudiants respectent les recommandations de l'OMS. La santé mentale des étudiants, déjà fragile, a été particulièrement affectée par la pandémie. Ce mémoire cherche à modéliser et à quantifier l'impact de l'activité physique sur la santé de ce groupe caractéristique en proposant une approche méthodologique statistique adaptée.
 
 Donnée utilisées pour l'étude : https://data.progedo.fr/studies/doi/10.13144/lil-1364.
